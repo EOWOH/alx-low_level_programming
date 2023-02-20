@@ -9,6 +9,7 @@ int main(void)
 {
 	char low_case = 'a';
 	char upa_case = 'A';
+
 	while (low_case <= 'z')
 	{
 		putchar(low_case);
