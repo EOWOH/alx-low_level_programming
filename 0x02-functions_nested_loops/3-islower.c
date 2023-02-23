@@ -1,11 +1,9 @@
 #include "main.h"
 
 /**
- * print int _islower(int c) - printing to check for lowercase character
+ * print int _islower - printing to check for lowercase character
  *
- * @n:int _islower(int c)
- *
- * Return: int _islower(int c)
+ * Return: int _islower
  */
 int _islower(int c)
 {
