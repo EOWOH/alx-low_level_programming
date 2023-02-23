@@ -7,7 +7,6 @@
  *
  * Return: print_alphabet_x10
  */
-
 void print_alphabet_x10(void)
 {
 	char i = 1;
