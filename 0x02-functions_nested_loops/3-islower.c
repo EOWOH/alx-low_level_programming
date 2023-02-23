@@ -11,13 +11,7 @@
  */
 int _islower(int c)
 {
-	if ((c >= 65) || (c >= 97))
+	char low = 'a';
+	while (low <= 'z')
 	{
-		return (1);
-	}
-	else
-	{
-		return (0);
-	}
-	_putchar('\n');
-}
+		if (low ==
