@@ -3,7 +3,6 @@
 /**
  * puts2 - prints strings
  * @str: function parameter
- * Return: 0
  */
 
 void puts2(char *str)
@@ -16,5 +15,4 @@ void puts2(char *str)
 		i++;
 	}
 	_putchar('\n');
-	return (0);
 }
